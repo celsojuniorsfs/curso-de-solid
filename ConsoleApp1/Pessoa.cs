@@ -1,4 +1,4 @@
-﻿namespace Aula_Classes1
+﻿namespace CursoFoop_Fundamentos_This
 {
     class Pessoa
     {
